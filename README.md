@@ -18,6 +18,7 @@ Repositori ini cocok ketika teman - teman telah mencoba belajar pemograman secar
 Bagi teman - teman yang ingin mengasah kemampuan Python, kami juga akan menyediakan beberapa teka - teki yang akan kalian pecahkan. (Soon)
 
 Contoh struktur Sekapur Sirih adalah sebagai berikut.
+
 .
 +-- 1. Yuk Mulai 
 |   +-- Coba Aku
