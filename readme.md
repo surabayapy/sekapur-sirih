@@ -3,19 +3,19 @@
 Selamat datang di repository sekapur sirih Surabaya.py. Disini dikumpulkan berbagai *resource* untuk belajar python bagi pemula hingga advance. Silahkan belajar dan berkontribusi.
 
 **Daftar Isi**
-* [Bagaimana Cara Menggunakan Repository Ini](#Bagaimana-Cara-Menggunakan-Repository-Ini?)
-    * [Belajar Disini](#Belajar-Disini)
-    * [Kontribusi Disini](#Kontribusi-Disini)
-* [Mengenal Python dan Perbedaan dengan Bahasa Lain](#Mengenal-Python-dan-Perbedaan-dengan-Bahasa-Lain)
-    * [Python adalah Intepreted Programming](#Python-adalah-Intepreted-Programming)
-    * [Perbedaan Python 2 dan Python 3](#Perbedaan-Python-2-dan-Python-3)
-* [Apa Langkah Awal Belajar Python](#Langkah-Awal-Belajar-Python)
-    * [Install Python](#Install-Python)
-    * [Menggunakan IDLE](#Menggunakan-Python-Shell-/-IDLE)
-    * [Menggunakan IDE](#Menggunakan-IDE)
-    * [Menggunakan Code Editor](#Menggunakan-Code-Editor)
-    * [Menggunakan Jupyter Notebook](#Menggunakan-Jupyter-Notebook)
-* [Basic Coding](#Basic-Coding)
+* [Bagaimana Cara Menggunakan Repository Ini](#bagaimana-cara-menggunakan-repository-ini?)
+    * [Belajar Disini](#belajar-disini)
+    * [Kontribusi Disini](#kontribusi-disini)
+* [Mengenal Python dan Perbedaan dengan Bahasa Lain](#mengenal-python-dan-perbedaan-dengan-bahasa-lain)
+    * [Python adalah Intepreted Programming](#python-adalah-intepreted-programming)
+    * [Perbedaan Python 2 dan Python 3](#perbedaan-python-2-dan-python-3)
+* [Apa Langkah Awal Belajar Python](#langkah-awal-belajar-python)
+    * [Install Python](#install-python)
+    * [Menggunakan IDLE](#menggunakan-python-shell--idle)
+    * [Menggunakan IDE](#menggunakan-IDE)
+    * [Menggunakan Code Editor](#menggunakan-code-editor)
+    * [Menggunakan Jupyter Notebook](#menggunakan-jupyter-notebook)
+* [Basic Coding](#basic-coding)
 * Intermediete Coding
 * Proyek Open Source Surabaya.py
 
@@ -125,7 +125,7 @@ pip3 install jupyter --user
 ```
 
 ## Basic Coding
-Basic coding bisa dimulai dari membuka [`1. Basic.ipynb`](#). 
+Basic coding bisa dimulai dari membuka [`1. Basic.ipynb`](https://github.com/surabaya-py/sekapur-sirih/blob/master/1.%20Basic%20Coding.ipynb). 
 
 Jika ingin mengubah maupun mencoba sendiri, silahkan menginstall Jupyter Notebook. Untuk cara instalasinya bisa melihat [tutorial di atas](#Menggunakan-Jupyter-Notebook). Setelah melakukan instalasi, clone repo ini dan buka file [`1. Basic.ipynb`](#) pada jendela Jupyter Notebook.
 
