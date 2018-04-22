@@ -99,7 +99,7 @@ Tampilah salah satu Code Editor (VS Code)
 ### Menggunakan Jupyter Notebook
 Jupyter adalah code editor berbasis web based dan juga berbasis interactive python. Program dijalankan per blok dan memudahkan untuk melakukan pengujian program maupun visualisasi karena tidak perlu menjalankan seluruh program setelah mengedit sedikit program.
 
-![](image/pengenalan/python_import.png)
+![](image/pengenalan/jupyter.png)
 
 [Cara instalasi jupyter](http://jupyter.readthedocs.io/en/latest/install.html) :
 
