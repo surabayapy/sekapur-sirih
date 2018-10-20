@@ -133,9 +133,15 @@ Jika ingin mengubah maupun mencoba sendiri, silahkan menginstall Jupyter Noteboo
 ## Cara Instalasi Menggunakan Anaconda
 Download installer Anaconda pada link berikut:
 [Anaconda installer for Linux](https://www.anaconda.com/download/).
+![](image/pengenalan/install_anaconda.jpg)
+Pada halaman download, pilih file installer untuk Python3.x.
 
-Pada jendela Terminal, jalankan perintah berikut:
+Setelah mengunduh, pada jendela Terminal jalankan perintah berikut:
+```
 bash Anaconda-latest-Linux-x86_64.sh
+```
+
+![](image/pengenalan/instalasi_anaconda.jpg)
 Ikuti langkah-langkah yang tampil di jendela installer.
 
 Jika teman-teman tidak yakin untuk pengaturan, pilih pengaturan default. Jangan khawatir karena ini nanti dapat diubah.
