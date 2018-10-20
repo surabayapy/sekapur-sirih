@@ -17,6 +17,7 @@ Selamat datang di repository sekapur sirih Surabaya.py. Disini dikumpulkan berba
     * [Menggunakan Jupyter Notebook](#menggunakan-jupyter-notebook)
 * [Basic Coding](#basic-coding)
 * Intermediete Coding
+* [Cara Instalasi Menggunakan Anaconda](#cara-instalasi-menggunakan-anaconda)
 * Proyek Open Source Surabaya.py
 
 
@@ -129,9 +130,33 @@ Basic coding bisa dimulai dari membuka [`1. Basic.ipynb`](https://github.com/sur
 
 Jika ingin mengubah maupun mencoba sendiri, silahkan menginstall Jupyter Notebook. Untuk cara instalasinya bisa melihat [tutorial di atas](#Menggunakan-Jupyter-Notebook). Setelah melakukan instalasi, clone repo ini dan buka file [`1. Basic.ipynb`](#) pada jendela Jupyter Notebook.
 
+## Cara Instalasi Menggunakan Anaconda
+Download installer Anaconda pada link berikut:
+[Anaconda installer for Linux](https://www.anaconda.com/download/).
+![](image/pengenalan/install_anaconda.jpg)
+Pada halaman download, pilih file installer untuk Python3.x.
+
+Setelah mengunduh, pada jendela Terminal jalankan perintah berikut:
+```
+bash Anaconda-latest-Linux-x86_64.sh
+```
+
+![](image/pengenalan/instalasi_anaconda.jpg)
+Ikuti langkah-langkah yang tampil di jendela installer.
+
+Jika teman-teman tidak yakin untuk pengaturan, pilih pengaturan default. Jangan khawatir karena ini nanti dapat diubah.
+
+Untuk membuat perubahan, tutup dan buka kembali jendela Terminal.
+
+Untuk menguji instalasi, pada jendela Terminal atau Anaconda Prompt, jalankan perintah conda list.
+```
+conda list
+```
+
 ## Dari komunitas untuk komunitas
 Repo ini dibuat oleh dukungan komunitas agar dapat menjadi media belajar yang terbaik dan jauh lebih baik. Berikut adalah nama-nama kontributor pada repo ini:
 
 * [Tegar Imansyah](https://github.com/tegarimansyah)
+* [Muhammad (Dyhaz)](https://github.com/dyhaz)
 * May be you?
 * Of course you!
