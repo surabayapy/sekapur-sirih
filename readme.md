@@ -133,5 +133,6 @@ Jika ingin mengubah maupun mencoba sendiri, silahkan menginstall Jupyter Noteboo
 Repo ini dibuat oleh dukungan komunitas agar dapat menjadi media belajar yang terbaik dan jauh lebih baik. Berikut adalah nama-nama kontributor pada repo ini:
 
 * [Tegar Imansyah](https://github.com/tegarimansyah)
+* [Ridho Febriansa](https://github.com/ridhof)
 * May be you?
 * Of course you!
