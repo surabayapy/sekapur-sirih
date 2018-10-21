@@ -1,0 +1,6 @@
+1. Download terlebih dahulu installer dari Anaconda disini https://www.anaconda.com/download/, pilih versi Python nya, 
+2. Setelah di download jalankan installer tersebut, klik next dan agree
+3. Pilih lokasi yang diinginkan, atau lebih baik pilih default
+4. Pilh path tempat Anaconda akan diinstall
+5. Klik tombol Install, dan instalasi akan berjalan
+6. Setelah selesai, coba jalankan Anaconda Navigator, apabila berhasil berarti Anaconda siap dijalankan. 
